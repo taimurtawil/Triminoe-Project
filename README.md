@@ -8,11 +8,13 @@ During a Discrete Mathematics course I took at college, we had a sample question
 
 First run Mainframe.java and input your parameters:
 
-![form](.\triminoeForm.png)
+![triminoeForm](https://user-images.githubusercontent.com/92693639/149994256-42e9185d-0077-4095-8a70-e357115c4485.png)
+
 
 Then press submit and watch as the triminoes are placed onto our board. THe complete board should look like this:
 
-![completeBoard](.\completeBoard.png)
+![completeBoard](https://user-images.githubusercontent.com/92693639/149994315-2273853c-5aaf-4fc3-bbaa-97693f071487.png)
+
 
 PS: if the board looks off just resize the window and it should be fine 
 
